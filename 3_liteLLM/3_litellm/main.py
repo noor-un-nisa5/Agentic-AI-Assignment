@@ -12,7 +12,7 @@ def use_openai():
         messages=[
             {
                 "role": "user",
-                "content": "Hello, how are you?"
+                "content": "Hello, what have you been up to?"
             }
         ]
     )
@@ -24,7 +24,7 @@ def use_claude():
         messages=[
             {
                 "role": "user",
-                "content": "Hello, how are you?"
+                "content": "Hello, what have you been up to?"
             }
         ]
     )
@@ -37,7 +37,7 @@ def use_claude_opus():
         messages=[
             {
                 "role": "user",
-                "content": "Hello, how are you?"
+                "content": "Hello, what have you been up to?"
             }
         ]
     )
