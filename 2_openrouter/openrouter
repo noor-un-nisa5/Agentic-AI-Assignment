@@ -56,22 +56,5 @@ pip install openai
 
 
 
-
-📚 References
-OpenRouter Docs
-
-Supported Models
-
-
-
 ---
-
-### 🔁 Summary:
-
-| File Name         | Purpose                                         |
-|------------------|-------------------------------------------------|
-| `README.md`       | Short summary + link to `openrouter.md`        |
-| `openrouter.md`   | Detailed setup instructions + sample code      |
-
-Agar project Python ya JS mein ho to us hisaab se code adjust kar sakte hain. Bata dein agar aap `.env`, JS, ya kisi aur language mein likhna chahtay hain.
 
