@@ -1,5 +1,5 @@
 # Agentic-AI-Assignment
-Agentic AI Assignment 01_ai_agents_first
+Agentic AI Assignment 01_ai_agents_first/ 01_practical_task
 
 
 # 🤖 Agentic AI Overview
