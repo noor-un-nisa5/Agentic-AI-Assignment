@@ -1,0 +1,77 @@
+🌐 What is OpenRouter?
+OpenRouter is a platform that provides unified access to multiple AI language models (LLMs) through a single API.
+Think of it as a central hub or “router” that connects you to various powerful AI models from different companies—all in one place.
+
+
+🔑 Key Points:
+One API → Many Models
+You can access models like GPT-4, Claude, Mistral, Gemini, etc., using a single OpenRouter API.
+
+Model Switching Made Easy
+Instead of signing up for different services (OpenAI, Anthropic, Mistral), you use OpenRouter to try or compare them with one API key.
+
+Pay-as-you-go Pricing
+OpenRouter handles billing, so you don’t need separate subscriptions for every provider.
+
+Great for Developers & AI Projects
+It's especially helpful when building Agentic AI systems, AI apps, or tools that may benefit from different model strengths (reasoning, creativity, speed, etc.).
+
+
+
+## 🔌 OpenRouter Integration
+
+This project includes integration with **OpenRouter**, a platform that provides access to multiple AI models (like GPT-4, Claude, Mistral, etc.) through a single API.
+
+📄 For setup instructions and example code, see [`openrouter.md`](./openrouter.md).
+
+### 🔗 Why OpenRouter?
+- Unified API for multiple LLMs
+- Easy model switching
+- Great for Agentic AI systems
+
+Learn more at [https://openrouter.ai](https://openrouter.ai)
+
+
+
+# 🌐 OpenRouter Integration Guide
+
+This document explains how to integrate OpenRouter into this project.
+
+---
+
+## 🔑 Requirements
+
+- Python 3.x
+- `openai` package
+- OpenRouter API Key (get it from [https://openrouter.ai](https://openrouter.ai))
+
+---
+
+## ⚙️ Setup Steps
+
+### Step 1: Install Dependency
+
+```bash
+pip install openai
+
+
+
+
+📚 References
+OpenRouter Docs
+
+Supported Models
+
+
+
+---
+
+### 🔁 Summary:
+
+| File Name         | Purpose                                         |
+|------------------|-------------------------------------------------|
+| `README.md`       | Short summary + link to `openrouter.md`        |
+| `openrouter.md`   | Detailed setup instructions + sample code      |
+
+Agar project Python ya JS mein ho to us hisaab se code adjust kar sakte hain. Bata dein agar aap `.env`, JS, ya kisi aur language mein likhna chahtay hain.
+
